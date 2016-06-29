@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Leckerli+One);
+
+body {
+  background-color: #edeff0;
+}
+
+.navBar {
+  font-family: "Covered By Your Grace";
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  float: right;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.selected {
+  font-family: "Leckerli One";
+  font-size: 25px;
+}
+
+img {
+  height: 343px;
+}
+
+/*#cupcake1 {
+  position:absolute;
+}
+#cupcake2 {
+  position:absolute;
+  left: 455px;
+}
+#cupcake3 {
+  position:absolute;
+  left: 1120px;
+}*/
+
+/*#main {
+  width: 800px;
+  border: 2px solid black;
+  float: left;
+}
+
+#sidebar {
+  width: 275px;
+  border: 2px solid black;
+  float: right;*/
+}
+.box {
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+}
+.wrap {
+  width: 1100px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
